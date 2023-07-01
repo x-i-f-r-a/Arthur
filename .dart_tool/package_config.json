@@ -143,10 +143,10 @@
       "name": "arthur",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-01T11:43:29.161407Z",
+  "generated": "2023-07-01T15:17:32.548847Z",
   "generator": "pub",
   "generatorVersion": "3.0.2"
 }
