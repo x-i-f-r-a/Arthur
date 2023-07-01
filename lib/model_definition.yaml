@@ -1,0 +1,14 @@
+- class: Customer
+  database: testdb
+  fields:
+    - name: [TEXT]
+    - age: [INTEGER]
+    - email: [TEXT]
+
+- class: Order
+  database: testdb
+  fields:
+    - orderId: [INTEGER , PRIMARY KEY] # replace SERIAL with INTEGER in case of sqlite 
+    - product: [TEXT]
+    - quantity: [INTEGER]
+
